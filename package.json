@@ -1,27 +1,27 @@
 {
-  "name": "nk-datatables",
-  "version": "0.0.2",
-  "description": "Datatables in React",
-  "main": "index.js",
-  "scripts": {
-    "test": "./test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:jkiss/nk-datatables.git"
-  },
-  "keywords": [
-    "datatables",
-    "react"
-  ],
-  "author": "Mr.B",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jkiss/nk-datatables/issues"
-  },
-  "homepage": "https://github.com/jkiss/nk-datatables",
-  "dependencies": {
-    "datatables.net": "^1.10.15",
-    "datatables.net-bs": "^1.10.15"
-  }
+    "name": "nk-datatables",
+    "version": "0.0.2",
+    "description": "Datatables in React",
+    "main": "index.js",
+    "scripts": {
+        "test": "./test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jkiss/nk-datatables.git"
+    },
+    "keywords": [
+        "datatables",
+        "react"
+    ],
+    "author": "Mr.B",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jkiss/nk-datatables/issues"
+    },
+    "homepage": "https://github.com/jkiss/nk-datatables",
+    "dependencies": {
+        "datatables.net": "^1.10.15",
+        "datatables.net-bs": "^1.10.15"
+    }
 }
