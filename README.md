@@ -1,5 +1,7 @@
 # DataTable React Wrapper
 
+[![chat][chat]][chat-url]
+
 ### Configuration
 
 ```javascript
@@ -79,3 +81,6 @@ this.state = {
     dataUrl={this.state.table_data_url} 
     ajaxData={this.state.table_ajax_data} />
 ```
+
+[chat]: https://badges.gitter.im/gitterHQ/gitter.png
+[chat-url]: https://gitter.im/nk-datatables/Lobby
